@@ -26,7 +26,7 @@ global.notice = ` *Hi 💀 I m*
 *I am a Fans of one piece.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*Join our kingdom - https://bit.ly/3UeiAUr*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+970 567 751 182'] //👈  Enter Your number
 global.premium =  ['+970 567 751 182'] //👈  Enter Your number
 global.ownernomer = '+970 567 751 182' //👈  Enter Your number
@@ -44,7 +44,7 @@ global.bye = '*Bye bye Mother fucker ☠*' // 👈 You Can change this your choi
 global.packname = 'ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡'  // 👈 You Can change this your choice 
 global.author = '𝐓𝐀𝐌𝐀𝐊𝐈 𝐁𝐎𝐓' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
-global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
+global.prefa = ['😪','🤨','.'😎'🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
 global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
